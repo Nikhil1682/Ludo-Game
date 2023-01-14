@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.container{
+    text-align: center;
+    
+}
+.dice{
+    text-align: center;
+    display:inline-block ;
+}
+body{
+    background-image: url("./ludo.png");
+    background-size: cover;
+    
+}
+h1{
+    margin: 30px;
+    text-shadow: 3px 0px white;
+    font-size: 6rem;
+    color: orange;
+}
+h2{
+    font-size: 2rem;
+    text-shadow: 1px 0px white;
+    color:black;
+    background-color:cyan;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+img{
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+    border-radius:2rem;
+    height: 15rem;
+}
+button{
+font-size: 3rem;
+border-radius: 1rem;
+background-color: green;
+}
+button:hover{
+    background-color:blu;
+    } 
+
